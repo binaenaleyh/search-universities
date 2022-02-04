@@ -1,16 +1,19 @@
-# search_universities
+# Search Universities App
 
-A new Flutter project.
+#### It is a Flutter mobile and web application that allows you to search for universities worldwide by name and country.
 
-## Getting Started
+> Data source: [API developed by Hipolabs.](https://github.com/Hipo/university-domains-list-api "API developed by Hipolabs.")
 
-This project is a starting point for a Flutter application.
+------------
+### Screenshots
+<img src="https://raw.githubusercontent.com/binaenaleyh/search-universities/main/ss/android.png" width="200" />
+<img src="https://raw.githubusercontent.com/binaenaleyh/search-universities/main/ss/web.PNG"  />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### How To Run
+To run it, first run the following code to install the required dependencies:
+`flutter pub get
+`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Now we are ready to run:
+`flutter run`
